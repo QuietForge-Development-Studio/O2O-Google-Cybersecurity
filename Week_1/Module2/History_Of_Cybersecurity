@@ -1,0 +1,174 @@
+Computer Virus - Maliucious Codwe written to interfere witrh computer operations and cause damage to data and software
+Malware - Software designed to harm devices and networks
+
+Brain Virus 1986 - intended to track illegal purchases of medical software. 
+
+
+Morris Worm 1988 - Program designed to assess size of internet. affected 6000 computers, about 10% of internet at that time
+
+0:00
+The security industry is constantly evolving, but many present-day attacks are not entirely new. Attackers often alter or enhance previous methods. Understanding past attacks can provide direction for how to handle or investigate incidents in your job as a security analyst. First, let's go over a couple of key terms that will support your understanding of the attacks we'll discuss. A computer virus is malicious code written to interfere with computer operations and cause damage to data and software. The virus attaches itself to programs or documents on a computer, then spreads and infects one or more computers in a network. Today, viruses are more commonly referred to as malware, which is software designed to harm devices or networks. Two examples of early malware attacks that we'll cover are the Brain virus and the Morris worm.
+Play video starting at :1:2 and follow transcript1:02
+They were created by malware developers to accomplish specific tasks. However, the developers underestimated the impact their malware would have and the amount of infected computers there would be. Let's take a closer look at these attacks and discuss how they helped shape security as we know it today. In 1986, the Alvi brothers created the Brain virus, although the intention of the virus was to track illegal copies of medical software and prevent pirated licenses, what the virus actually did was unexpected. Once a person used a pirated copy of the software, the virus-infected that computer. Then, any disk that was inserted into the computer was also infected. The virus spread to a new computer every time someone used one of the infected disks. Undetected, the virus spread globally within a couple of months. Although the intention was not to destroy data or hardware, the virus slowed down productivity and significantly impacted business operations.
+Play video starting at :2:9 and follow transcript2:09
+The Brain virus fundamentally altered the computing industry, emphasizing the need for a plan to maintain security and productivity. As a security analyst, you will follow and maintain strategies put in place to ensure your organization has a plan to keep their data and people safe. Another influential computer attack was the Morris worm.
+Play video starting at :2:33 and follow transcript2:33
+In 1988, Robert Morris developed a program to assess the size of the internet. The program crawled the web and installed itself onto other computers to tally the number of computers that were connected to the internet. Sounds simple, right? The program, however, failed to keep track of the computers it had already compromised and continued to re-install itself until the computers ran out of memory and crashed. About 6,000 computers were affected, representing 10% of the internet at the time. This attack cost millions of dollars in damages due to business disruptions and the efforts required to remove the worm. After the Morris worm, Computer Emergency Response Teams, known as CERTs®, were established to respond to computer security incidents. CERTs still exist today, but their place in the security industry has expanded to include more responsibilities. Later in this program, you'll learn more about the core functions of these security teams and gain hands-on practice with detection and response tools. Early attacks played a key role in shaping the current security industry. And coming up, we'll discuss how attacks evolved in the digital age.
+
+Attacks in digital Age
+
+Loveletter Malware - steal login credentials
+sbjt: I love you!
+45 Million compuiters affected
+social engineering - exploits human error to gain access to data or assets
+
+
+Question
+
+What type of manipulation technique was the LoveLetter attack? 
+
+
+Unsolicited email
+
+
+Login credentials
+
+
+Digital communication
+
+
+Social engineering
+
+Correct
+The LoveLetter attack was an example of social engineering. Social engineering is a manipulation technique that exploits human error to gain private information, access, or valuables. 
+
+convenience vs. security
+
+phishing - use of digital communications to trick people into providing sensitive information
+
+Equifax Breach 
+143 million customer records stolen
+SSNs, birrthdays, addresses, etc
+
+multiple failures expl;oturesd simultaneously. organization had intel, but refused to act on it beforehand causing massive losses in trust and legal consequeces
+
+
+With the expansion of reliable high-speed internet, the number of computers connected to the internet increased dramatically. Because malware could spread through the internet, threat actors no longer needed to use physical disks to spread viruses.
+Play video starting at ::17 and follow transcript0:17
+To better understand attacks in the digital age, we'll discuss two notable attacks that relied on the internet: the LoveLetter attack and the Equifax breach.
+Play video starting at ::30 and follow transcript0:30
+In the year 2000, Onel De Guzman created the LoveLetter malware to steal internet login credentials. This attack spread rapidly and took advantage of people who had not developed a healthy suspicion for unsolicited emails. Users received an email with the subject line, "I Love You." Each email contained an attachment labeled, "Love Letter For You." When the attachment was opened, the malware scanned a user's address book. Then, it automatically sent itself to each person on the list and installed a program to collect user information and passwords. Recipients would think they were receiving an email from a friend, but it was actually malware. The LoveLetter ended up infecting 45 million computers globally and is believed to have caused over $10 billion dollars in damages. The LoveLetter attack is the first example of social engineering.
+Play video starting at :1:27 and follow transcript1:27
+Social engineering is a manipulation technique that exploits human error to gain private information, access, or valuables.
+Play video starting at :1:36 and follow transcript1:36
+After the LoveLetter, attackers understood the power of social engineering. The number of social engineering attacks is increasing with every new social media application that allows public access to people's data. Many people are now prioritizing convenience over privacy. The trade-off of this evolving shift is that these tools may lead to increased vulnerability, if people do not use them appropriately.
+Play video starting at :2:5 and follow transcript2:05
+As a security professional, your role is to identify and manage inappropriate use of technology that may place your organization and all the people associated with it at risk. One way to safeguard your organization is to conduct regular internal trainings, which you as a future security analyst may be asked to lead or participate in.
+Play video starting at :2:30 and follow transcript2:30
+Today, it's common for employees to receive training on how to identify social engineering attacks. Specifically, phishing through the emails they receive. Phishing is the use of digital communications to trick people into revealing sensitive data or deploying malicious software.
+Play video starting at :2:50 and follow transcript2:50
+Now, let's discuss the Equifax breach. In 2017, attackers successfully infiltrated the credit reporting agency, Equifax. This resulted in one of the largest known data breaches of sensitive information. Over 143 million customer records were stolen, and the breach affected approximately 40% of all Americans.
+Play video starting at :3:16 and follow transcript3:16
+The records included personally identifiable information including social security numbers, birth dates, driver's license numbers, home addresses, and credit card numbers. From a security standpoint, the breach occurred due to multiple failures on Equifax's part. It wasn't just one vulnerability that the attackers took advantage of, there were several. The company failed to take the actions needed to fix multiple known vulnerabilities in the months leading up to the data breach.
+Play video starting at :3:50 and follow transcript3:50
+In the end, Equifax settled with the U.S. government and paid over $575 million dollars to resolve customer complaints and cover required fines.
+Play video starting at :4:1 and follow transcript4:01
+While there have been other data breaches before and after the Equifax breach, the large settlement with the U.S. government alerted companies to the financial impact of a breach and the need to implement preventative measures.
+Play video starting at :4:17 and follow transcript4:17
+These are just a couple of well-known incidents that have shaped the security industry. Knowing about them will help you in your security career. Understanding different types of malware and social engineering attacks will allow you to communicate about security risks during future job interviews.
+Play video starting at :4:37 and follow transcript4:37
+As a future security professional, constantly adapting and educating yourself on threat actors' tactics and techniques will be a part of your job. By noticing similar trends, patterns, and methodologies, you may be able to identify a potential breach and limit future damage.
+Play video starting at :4:58 and follow transcript4:58
+Finally, understanding how security affects people's lives is a good reminder of why the work you will do is so important!
+
+0:03
+Hi, my name is Sean. I'm a Technical Program Manager in Google workspace. I am a 30 year security veteran within the security space across six different industries. During your first data breach, the most important thing that you can do is keep your cool. Everyone around is going to be freaking out. If you are on the security team and you are managing the incident, you have to legitimately be the cool guy in the room. Be that person that has the pause in the conversation. Somebody might be like, do you know what's going on? I absolutely do. I think the biggest breach I've ever had was a phone call. An engineer for another financial, bought a server off eBay. That server fired it up hadn't been wiped. Twenty million credit card records were on it. That triggered a whole review of we had not been controlling for how do third parties because we were now outsourcing data centers. How do third parties wipe the servers that we no longer use? The first thing you're going to do is to contain the breach. If you are still hemorrhaging data, you go through your progressions to stop hemorrhaging data. So if that means shutting down a server, shutting down a data center, shutting down comms, whatever, stopping the data loss is that is your number one priority. Your job as an incident manager or as somebody working a breach is to stop the breach and then investigate the breach. So executing your incident management by plan is the most important thing that an entry level person can keep in mind.
+
+Your grade: 100%
+Your latest: 100%•
+Your highest: 100%•
+To pass you need at least 75%. We keep your highest score.
+1.
+Question 1
+Fill in the blank: A computer virus is malicious _____ that interferes with computer operations and causes damage.
+
+
+code
+
+
+A computer virus is malicious code that interferes with computer operations and causes damage. A virus is a type of malware.
+
+
+sequencing
+
+
+
+formatting
+
+
+
+hardware
+
+
+1 / 1 point
+2.
+Question 2
+What is one way that the Morris worm helped shape the security industry?
+
+
+It prevented the development of illegal copies of software.
+
+
+
+It made organizations more aware of the significant financial impact of security incidents.
+
+
+
+It led to the development of computer response teams.
+
+
+The Morris worm helped shape the security industry because it led to the development of computer emergency response teams, now commonly referred to as computer security incident response teams (CSIRTs). 
+
+
+It inspired threat actors to develop new types of social engineering attacks.
+
+
+1 / 1 point
+3.
+Question 3
+What were the key impacts of the Equifax breach? Select two answers.
+
+
+Millions of customers' PII was stolen.
+
+
+The key impacts of the Equifax breach were the fact that millions of customers' PII was stolen and that the significant financial consequences of a breach became more apparent. 
+
+
+The significant financial consequences of a breach became more apparent.
+
+
+The key impacts of the Equifax breach were the fact that millions of customers' PII was stolen and that the significant financial consequences of a breach became more apparent. 
+
+
+Phishing became illegal due to significant public outcry.
+
+
+
+Developers were able to track illegal copies of software and prevent pirated licenses.
+
+
+1 / 1 point
+4.
+Question 4
+Social engineering, such as phishing, is a manipulation technique that relies on computer error to gain private information, access, or valuables. 
+
+
+True
+
+
+
+False
+
+
+Social engineering, such as phishing, is a manipulation technique that relies on human error (not computer error) to gain private information, access, or valuables. 

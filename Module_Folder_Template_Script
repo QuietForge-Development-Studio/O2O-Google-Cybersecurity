@@ -1,0 +1,33 @@
+# Prompt for module number
+$moduleNumber = Read-Host "Enter the module number (1-8)"
+
+# Validate input
+if ($moduleNumber -match '^[1-8]$') {
+    # Define the root path
+    $basePath = "C:\Users\lasve\Desktop\Vault_Master\Sandbox\O2O Google Cybersecurity"
+    $moduleFolder = Join-Path $basePath "Week_1\Module$moduleNumber"
+
+    # Define subfolders
+    $subfolders = @("Coach", "Glossary", "Notes", "Tests", "Transcripts", "Wrap-Up")
+
+    # Create module folder if it doesn't exist
+    if (-Not (Test-Path $moduleFolder)) {
+        New-Item -Path $moduleFolder -ItemType Directory | Out-Null
+        Write-Host "Created folder: $moduleFolder"
+    } else {
+        Write-Host "Folder already exists: $moduleFolder"
+    }
+
+    # Create each subfolder
+    foreach ($folder in $subfolders) {
+        $path = Join-Path $moduleFolder $folder
+        if (-Not (Test-Path $path)) {
+            New-Item -Path $path -ItemType Directory | Out-Null
+            Write-Host "  -> Created subfolder: $folder"
+        } else {
+            Write-Host "  -> Subfolder already exists: $folder"
+        }
+    }
+} else {
+    Write-Host "Invalid input. Please enter a number between 1 and 8."
+}

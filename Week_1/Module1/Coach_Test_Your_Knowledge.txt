@@ -1,0 +1,43 @@
+Test your knowledge: Introduction to cybersecurity
+Ready to review what you’ve learned before starting the assignment? I’m here to help.
+
+Assignment details
+Attempts
+Unlimited
+
+Your grade
+You haven’t submitted this yet. We keep your highest score.
+
+--Not available
+
+Brian
+Help me practice
+
+Coach
+I'm excited to help you practice! We'll focus on the concepts from the "Foundations of Cybersecurity" course. The goal is to reinforce your understanding and prepare you for your upcoming assignment.
+
+Are you ready to start? Please confirm, and we can dive into the first question!
+
+Brian
+lets roll
+
+Coach
+Great! Let's get started!
+
+Can you explain the importance of the CIA triad (Confidentiality, Integrity, Availability) in cybersecurity? How do these three principles work together to protect information?
+
+Brian
+yes, without any single element in this triad, authorized users would be unlikely to be able to find the accurate information in the right place, access it when needed, or keep it from those who would exploit the system or data for their own gain or to impede the mission. all three must be present
+
+Coach
+That's a solid explanation! You've highlighted the interdependence of the three elements in the CIA triad, emphasizing that each component plays a crucial role in ensuring the overall security of information. 
+
+To deepen your understanding, let's break it down a bit more:
+
+Confidentiality ensures that sensitive information is only accessible to those who are authorized to view it. Can you think of a scenario where a breach of confidentiality could have serious consequences?
+
+Integrity involves maintaining the accuracy and trustworthiness of data. What methods do you think organizations use to ensure data integrity?
+
+Availability means that information and resources are accessible to authorized users when needed. How might an organization ensure that its systems remain available, even in the face of potential threats?
+Feel free to reflect on these points!
+

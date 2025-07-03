@@ -1,0 +1,133 @@
+2.2.1.1
+Welcome back! As a security analyst, your job isn't just keeping organizations safe. Your role is much more important. You're also helping to keep people safe. Breaches that affect customers', vendors', and employees' data can cause significant damage to people's financial stability and their reputations. As an analyst, your day-to-day work will help keep people and organizations safe.
+Play video starting at ::32 and follow transcript0:32
+In this section of the course, we'll discuss security frameworks, controls, and design principles in more detail, and how they can be applied to security audits to help protect organizations and people.
+Play video starting at ::47 and follow transcript0:47
+Keeping customer information confidential is a crucial part of my daily work at Google. The NIST Cybersecurity Framework plays a large part in this. The framework ensures the protection and compliance of customer tools and personal work devices through the use of security controls.
+Play video starting at :1:7 and follow transcript1:07
+Welcome to the world of security frameworks and controls. Let's get started!
+
+2.2.1.2
+In an organization, plans are put in place to protect against a variety of threats, risks, and vulnerabilities. However, the requirements used to protect organizations and people often overlap. Because of this, organizations use security frameworks as a starting point to create their own security policies and processes.
+Play video starting at ::24 and follow transcript0:24
+Let's start by quickly reviewing what frameworks are. Security frameworks are guidelines used for building plans to help mitigate risks and threats to data and privacy, such as social engineering attacks and ransomware. Security involves more than just the virtual space. It also includes the physical, which is why many organizations have plans to maintain safety in the work environment. For example, access to a building may require using a key card or badge.
+Play video starting at ::54 and follow transcript0:54
+Other security frameworks provide guidance for how to prevent, detect, and respond to security breaches. This is particularly important when trying to protect an organization from social engineering attacks like phishing that target their employees.
+Play video starting at :1:9 and follow transcript1:09
+Remember, people are the biggest threat to security. So frameworks can be used to create plans that increase employee awareness and educate them about how they can protect the organization, their co-workers, and themselves. Educating employees about existing security challenges is essential for minimizing the possibility of a breach.
+Play video starting at :1:32 and follow transcript1:32
+Providing employee training about how to recognize red flags, or potential threats, is essential, along with having plans in place to quickly report and address security issues. As an analyst, it will be important for you to understand and implement the plans your organization has in place to keep the organization, its employees, and the people it serves safe from social engineering attacks, breaches, and other harmful security incidents.
+Play video starting at :2: and follow transcript2:00
+Coming up, we'll review and discuss security controls, which are used alongside frameworks to achieve an organization's security goals
+
+2.2.1.3
+
+0:00
+While frameworks are used to create plans to address security risks, threats, and vulnerabilities, controls are used to reduce specific risks. If proper controls are not in place, an organization could face significant financial impacts and damage to their reputation because of exposure to risks including trespassing, creating fake employee accounts, or providing free benefits.
+Play video starting at ::28 and follow transcript0:28
+Let's review the definition of controls. Security controls are safeguards designed to reduce specific security risks. In this video, we'll discuss three common types of controls: encryption, authentication, and authorization.
+Play video starting at ::46 and follow transcript0:46
+Encryption is the process of converting data from a readable format to an encoded format. Typically, encryption involves converting data from plaintext to ciphertext. Ciphertext is the raw, encoded message that's unreadable to humans and computers. Ciphertext data cannot be read until it's been decrypted into its original plaintext form. Encryption is used to ensure confidentiality of sensitive data, such as customers' account information or social security numbers.
+Play video starting at :1:20 and follow transcript1:20
+Another control that can be used to protect sensitive data is authentication. Authentication is the process of verifying who someone or something is. A real-world example of authentication is logging into a website with your username and password. This basic form of authentication proves that you know the username and password and should be allowed to access the website. More advanced methods of authentication, such as multi-factor authentication, or MFA, challenge the user to demonstrate that they are who they claim to be by requiring both a password and an additional form of authentication, like a security code or biometrics, such as a fingerprint, voice, or face scan.
+Play video starting at :2:11 and follow transcript2:11
+Biometrics are unique physical characteristics that can be used to verify a person's identity. Examples of biometrics are a fingerprint, an eye scan, or a palm scan. One example of a social engineering attack that can exploit biometrics is vishing. Vishing is the exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source. For example, vishing could be used to impersonate a person's voice to steal their identity and then commit a crime.
+Play video starting at :2:46 and follow transcript2:46
+Another very important security control is authorization. Authorization refers to the concept of granting access to specific resources within a system. Essentially, authorization is used to verify that a person has permission to access a resource. As an example, if you're working as an entry-level security analyst for the federal government, you could have permission to access data through the deep web or other internal data that is only accessible if you're a federal employee.
+Play video starting at :3:22 and follow transcript3:22
+The security controls we discussed today are only one element of a core security model known as the CIA triad. Coming up, we'll talk more about this model and how security teams use it to protect their organizations.
+
+2.2.2.1
+
+Great to see you again! While working as an entry-level security analyst, your main responsibility is to help protect your organization's sensitive assets and data from threat actors. The CIA triad is a core security model that will help you do that.
+Play video starting at ::19 and follow transcript0:19
+In this video, we'll explore the CIA triad and discuss the importance of each component for keeping an organization safe from threats, risks, and vulnerabilities. Let's get started!
+Play video starting at ::32 and follow transcript0:32
+The CIA triad is a model that helps inform how organizations consider risk when setting up systems and security policies. As a reminder, the three letters in the CIA triad stand for confidentiality, integrity, and availability. As an entry-level analyst, you'll find yourself constantly referring to these three core principles as you work to protect your organization and the people it serves.
+Play video starting at :1:1 and follow transcript1:01
+Confidentiality means that only authorized users can access specific assets or data. Sensitive data should be available on a "need to know" basis, so that only the people who are authorized to handle certain assets or data have access.
+Play video starting at :1:17 and follow transcript1:17
+Integrity means that the data is correct, authentic, and reliable. Determining the integrity of data and analyzing how it's used will help you, as a security professional, decide whether the data can or cannot be trusted.
+Play video starting at :1:33 and follow transcript1:33
+Availability means that the data is accessible to those who are authorized to access it. Inaccessible data isn't useful and can prevent people from being able to do their jobs. As a security professional, ensuring that systems, networks, and applications are functioning properly to allow for timely and reliable access, may be a part of your everyday work responsibilities.
+Play video starting at :1:58 and follow transcript1:58
+Now that we've defined the CIA triad and its components, let's explore how you might use the CIA triad to protect an organization. If you work for an organization that has large amounts of private data like a bank, the principle of confidentiality is essential because the bank must keep people's personal and financial information safe.
+Play video starting at :2:20 and follow transcript2:20
+The principle of integrity is also a priority. For example, if a person's spending habits or purchasing locations change dramatically, the bank will likely disable access to the account until they can verify that the account owner, not a threat actor, is actually the one making purchases.
+Play video starting at :2:39 and follow transcript2:39
+The availability principle is also critical. Banks put a lot of effort into making sure that people can access their account information easily on the web. And to make sure that information is protected from threat actors, banks use a validation process to help minimize damage if they suspect that customer accounts have been compromised.
+Play video starting at :3:1 and follow transcript3:01
+As an analyst, you'll regularly use each component of the triad to help protect your organization and the people it serves. And having the CIA triad constantly in mind, will help you keep sensitive data and assets safe from a variety of threats, risks, and vulnerabilities including the social engineering attacks, malware, and data theft we discussed earlier.
+Play video starting at :3:26 and follow transcript3:26
+Coming up, we'll explore specific frameworks and principles that will also help you protect your organization from threats, risks, and vulnerabilities. See you soon!
+
+2.2.3.1
+
+Welcome back. Before we get started, let's quickly review the purpose of frameworks. Organizations use frameworks as a starting point to develop plans that mitigate risks, threats, and vulnerabilities to sensitive data and assets. Fortunately, there are organizations worldwide that create frameworks security professionals can use to develop those plans.
+Play video starting at ::27 and follow transcript0:27
+In this video, we'll discuss two of the National Institute of Standards and Technology, or NIST's frameworks that can support ongoing security efforts for all types of organizations, including for profit and nonprofit businesses, as well as government agencies. While NIST is a US based organization, the guidance it provides can help analysts all over the world understand how to implement essential cybersecurity practices. One NIST framework that we'll discuss throughout the program is the NIST Cybersecurity Framework, or CSF.
+Play video starting at :1:6 and follow transcript1:06
+The CSF is a voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk. This framework is widely respected and essential for maintaining security regardless of the organization you work for. The CSF consists of five important core functions, identify, protect, detect, respond, and recover, which we'll discuss in detail in a future video. For now, we'll focus on how the CSF benefits organizations and how it can be used to protect against threats, risks, and vulnerabilities by providing a workplace example.
+Play video starting at :1:47 and follow transcript1:47
+Imagine that one morning you receive a high-risk notification that a workstation has been compromised. You identify the workstation, and discover that there's an unknown device plugged into it. You block the unknown device remotely to stop any potential threat and protect the organization. Then you remove the infected workstation to prevent the spread of the damage and use tools to detect any additional threat actor behavior and identify the unknown device. You respond by investigating the incident to determine who used the unknown device, how the threat occurred, what was affected, and where the attack originated.
+Play video starting at :2:31 and follow transcript2:31
+In this case, you discover that an employee was charging their infected phone using a USB port on their work laptop. Finally, you do your best to recover any files or data that were affected and correct any damage the threat caused to the workstation itself.
+Play video starting at :2:51 and follow transcript2:51
+As demonstrated by the previous example, the core functions of the NIST CSF provide specific guidance and direction for security professionals. This framework is used to develop plans to handle an incident appropriately and quickly to lower risk, protect an organization against a threat, and mitigate any potential vulnerabilities. The NIST CSF also expands into the protection of the United States federal government with NIST special publication, or SP 800-53. It provides a unified framework for protecting the security of information systems within the federal government, including the systems provided by private companies for federal government use.
+Play video starting at :3:39 and follow transcript3:39
+The security controls provided by this framework are used to maintain the CIA triad for those systems used by the government. Isn't it amazing how all of these frameworks and controls work together. We've discussed some really important security topics in this video that will be very useful for you as you continue your security journey. Because they're core elements of the security profession, the NIST CSF is a useful framework that most security professionals are familiar with, and having an understanding of the NIST, SP 800-53 is crucial if you have an interest in working for the US federal government. Coming up, we'll continue to explore the five NIST CSF functions and how organizations use them to protect assets and data.
+
+2.2.3.2
+Hello again! I'm excited you're here. We have so much to discuss. Previously, we covered the uses and benefits of the NIST CSF. In this video, we'll focus specifically on the five core functions of the NIST CSF framework. Let's get started.
+Play video starting at ::20 and follow transcript0:20
+NIST CSF focuses on five core functions: identify, protect, detect, respond, and recover. These core functions help organizations manage cybersecurity risks, implement risk management strategies, and learn from previous mistakes. Basically, when it comes to security operations, NIST CSF functions are key for making sure an organization is protected against potential threats, risks, and vulnerabilities. So let's take a little time to explore how each function can be used to improve an organization's security.
+Play video starting at :1:3 and follow transcript1:03
+The first core function is identify, which is related to the management of cybersecurity risk and its effect on an organization's people and assets. For example, as a security analyst, you may be asked to monitor systems and devices in your organization's internal network to identify potential security issues
+Play video starting at :1:26 and follow transcript1:26
+The second core function is protect, which is the strategy used to protect an organization through the implementation of policies, procedures, training, and tools that help mitigate cybersecurity threats.
+Play video starting at :1:41 and follow transcript1:41
+For example, as a security analyst, you and your team might encounter new and unfamiliar threats and attacks. For this reason, studying historical data and making improvements to policies and procedures is essential.
+Play video starting at :1:57 and follow transcript1:57
+The third core function is detect, which means identifying potential security incidents and improving monitoring capabilities to increase the speed and efficiency of detections. For example, as an analyst, you might be asked to review a new security tool's setup to make sure it's flagging low, medium, or high risk, and then alerting the security team about any potential threats or incidents. The fourth function is respond, which means making sure that the proper procedures are used to contain, neutralize, and analyze security incidents, and implement improvements to the security process.
+Play video starting at :2:41 and follow transcript2:41
+As an analyst, you could be working with a team to collect and organize data to document an incident and suggest improvements to processes to prevent the incident from happening again.
+Play video starting at :2:54 and follow transcript2:54
+The fifth core function is recover, which is the process of returning affected systems back to normal operation.
+Play video starting at :3:3 and follow transcript3:03
+For example, as an entry-level security analyst, you might work with your security team to restore systems, data, and assets, such as financial or legal files, that have been affected by an incident like a breach.
+Play video starting at :3:20 and follow transcript3:20
+We've covered a lot of information in this video. Hopefully, it helped you understand the value of learning about the NIST CSF and its five core functions.
+Play video starting at :3:31 and follow transcript3:31
+From proactive to reactive measures, all five functions are essential for making sure that an organization has effective security strategies in place.
+Play video starting at :3:41 and follow transcript3:41
+Security incidents are going to happen, but an organization must have the ability to quickly recover from any damage caused by an incident to minimize their level of risk.
+Play video starting at :3:53 and follow transcript3:53
+Coming up, we'll discuss security principles that work hand-in-hand with NIST frameworks and the CIA triad to help protect critical data and assets.
+
+2.2.4.1 OWASP principles and security audits
+
+It's important to understand how to protect an organization's data and assets because that will be part of your role as a security analyst. Fortunately, there are principles and guidelines that can be used, along with NIST frameworks and the CIA triad, to help security teams minimize threats and risks.
+Play video starting at ::22 and follow transcript0:22
+In this video, we'll explore some Open Web Application Security Project, or OWASP, security principles that are useful to know as an entry-level analyst.
+Play video starting at ::34 and follow transcript0:34
+The first OWASP principle is to minimize the attack surface area. An attack surface refers to all the potential vulnerabilities that a threat actor could exploit, like attack vectors, which are pathways attackers use to penetrate security defenses. Examples of common attack vectors are phishing emails and weak passwords. To minimize the attack surface and avoid incidents from these types of vectors, security teams might disable software features, restrict who can access certain assets, or establish more complex password requirements.
+Play video starting at :1:14 and follow transcript1:14
+The principle of least privilege means making sure that users have the least amount of access required to perform their everyday tasks. The main reason for limiting access to organizational information and resources is to reduce the amount of damage a security breach could cause. For example, as an entry-level analyst, you may have access to log data, but may not have access to change user permissions. Therefore, if a threat actor compromises your credentials, they'll only be able to gain limited access to digital or physical assets, which may not be enough for them to deploy their intended attack.
+Play video starting at :1:58 and follow transcript1:58
+The next principle we'll discuss is defense in depth. Defense in depth means that an organization should have multiple security controls that address risks and threats in different ways. One example of a security control is multi-factor authentication, or MFA, which requires users to take an additional step beyond simply entering their username and password to gain access to an application. Other controls include firewalls, intrusion detection systems, and permission settings that can be used to create multiple points of defense, a threat actor must get through to breach an organization.
+Play video starting at :2:41 and follow transcript2:41
+Another principle is separation of duties, which can be used to prevent individuals from carrying out fraudulent or illegal activities. This principle means that no one should be given so many privileges that they can misuse the system. For example, the person in a company who signs the paychecks shouldn't also be the person who prepares them.
+Play video starting at :3:6 and follow transcript3:06
+Only two more principles to go! You're doing great. Keep security simple is the next principle. As the name suggests, when implementing security controls, unnecessarily complicated solutions should be avoided because they can become unmanageable. The more complex the security controls are, the harder it is for people to work collaboratively.
+Play video starting at :3:33 and follow transcript3:33
+The last principle is to fix security issues correctly. Technology is a great tool, but can also present challenges. When a security incident occurs, security professionals are expected to identify the root cause quickly. From there, it's important to correct any identified vulnerabilities and conduct tests to ensure that repairs are successful.
+Play video starting at :4: and follow transcript4:00
+An example of an issue is a weak password to access an organization's wifi because it could lead to a breach. To fix this type of security issue, stricter password policies could be put in place.
+Play video starting at :4:15 and follow transcript4:15
+I know we've covered a lot, but understanding these principles increases your overall security knowledge and can help you stand out as a security professional.
+
+2.2.4.3
+
+
+
+2.2.4.4

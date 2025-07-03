@@ -1,0 +1,104 @@
+Keep going!
+Great job continuing your learning journey today. Every day of learning brings you closer to your goals.
+
+T
+
+Tuesday, learning goal set, no learning done
+S
+
+Saturday, learning goal not set, no learning done
+S
+
+Sunday, learning goal not set, no learning done
+Coursera
+Google
+
+Important cybersecurity tools
+Core cybersecurity knowledge and skills
+Review: Cybersecurity tools and programming languages
+Dialogue: Explore entry-level security analyst responsibilities
+. Duration: 15 minutes15 min
+Video: VideoWrap-up
+. Duration: 42 seconds42 sec
+Reading: ReadingGlossary terms from module 4
+. Duration: 2 minutes2 min
+Graded Assignment: Module 4 challenge
+. Duration: 45 minutes45 min
+Congratulations on completing Course 1!
+Foundations of Cybersecurity
+Module 4
+Explore entry-level security analyst responsibilities
+Explore entry-level security analyst responsibilities
+Explore entry-level security analyst responsibilities
+In this activity, you’ll engage in a conversation with Coursera’s AI-powered guide. This activity focuses on a realistic scenario that requires you to link the various fundamental responsibilities and protective measures of an entry-level security analyst to the primary objective of securing digital assets.
+
+Guidelines:
+Chatting with Coach is like chatting with an instructor or teammate. You can ask Coach questions, get hints, or request additional examples. All you have to do is ask, and Coach will provide additional guidance to help you learn!
+
+If you’re struggling with any part of the activity, click the "I’m stuck" icon in the top right corner, and Coach will reframe the question or topic.
+
+To check on your progress, click the “How am I doing?" icon in the top right corner, and Coach will let you know how much of the activity you’ve completed.
+
+Once you complete the activity at 100%, you’ll be given a summary highlighting what went well, or how you can improve your knowledge of the material.
+
+Please note, Coach bases its responses on course materials, but like any AI tool, it may surface inaccurate information. If Coach provides inaccurate information or formats a message improperly, click the thumbs-down icon next to the message and describe the error, so we can address the issue.
+
+Explore entry-level security analyst responsibilities
+Dialogue
+
+Coach
+Welcome! We'll explore how entry-level security analysts protect networks and information. Here's what we'll cover:
+
+Explore the Analyst Role (33%)
+Connect Responsibilities to Security (33%)
+Synthesize the Analyst's Proactive Role (34%)
+Are you ready to start?
+
+Brian
+Let's get started
+
+Coach
+Imagine you've just started as an entry-level security analyst. What initial day-to-day tasks and responsibilities do you envision taking on to help protect the organization's networks and information?
+
+Brian
+touring the physical architecture and topography of network, capture network traffic and run it through a secure VM instance  of an specialized LM ive trained to monitor, analyze, and detect PII and SPII that may be leaking inadvertantly. If so, discussing the matter with the OOD or similar leadership would be a priority if a working agreement hasnt been signed. I'd also want to talk to whoever the engineer or admin is. I'm not sure how id go about plugging the vulnerability as consent would be required, systems history would explain alot of whys which might explain hows. also that trying to fix has a tendency of breaking into smaller pieces before coming back together, so timing or schedule may be important. if its possible to run an office network overhaul, it may be better to start immediately after the last shift leaves if possible to reduce interference in operations and troubleshoot unexpected issues. It really depends on the situation, size, complexity, leadership and possibly even inter-office politics. 
+
+Coach
+As an entry-level security analyst, your initial tasks might involve monitoring security tools, configuring firewalls, implementing security software, and responding to basic security alerts. How do these tasks contribute to protecting the organization's networks and information?
+
+Brian
+the best offense is more often than not a combination of a strong sense of situational awareness, solid intel, logistics, and a solid defensive posture. a few moments of observation can help make better decisions about resource outlay
+
+Coach
+Monitoring security tools helps detect suspicious activity, configuring firewalls prevents unauthorized access, implementing security software protects against malware, and responding to alerts addresses potential threats in real-time.  How do these actions specifically contribute to protecting the organization's digital assets?
+
+Brian
+establishing perimeter security buys your main force reaction time, possible intel through observation, and time to plan the next move without exposing key assets. sounds like cybersecurity is at least somewhat metaphorically similar to pulling firewatch 
+
+Coach
+Monitoring tools help identify vulnerabilities and threats, firewalls block unauthorized traffic, security software prevents malware infections, and responding to alerts mitigates potential damage. These actions safeguard sensitive data, maintain system integrity, and ensure business continuity by protecting digital assets from various cyber threats. How do these individual tasks contribute to the larger goal of securing the organization's information and infrastructure?
+
+Brian
+different tools do different jobs. you can bundle them all together in a fancy UI, but you need the right tool for the right job in this field. 
+
+Coach
+By combining these tasks, security analysts build a layered defense. Monitoring helps identify weaknesses, firewalls control access, software prevents intrusions, and alert responses mitigate damage. This comprehensive approach protects the organization's digital assets, ensuring data security and operational stability.  Can you summarize how an entry-level analyst's daily tasks contribute to the overall security of an organization?
+
+Brian
+they gather intel for the brass, hold the line against intrusion, can suppress or elimatinate threats in real time, and make sure nobody runs off with the Deuce and a half. 
+
+Coach
+An entry-level analyst's daily work helps secure the organization by monitoring for threats, preventing unauthorized access, protecting against malware, and responding to security incidents. This combined effort safeguards digital assets, maintains system integrity, and ensures business continuity.  You are 100% complete.
+
+Coach
+During today's session covering the role of an entry-level security analyst, our goal was to understand how these analysts protect networks and information. Your responses show a developing understanding of how security analysts protect networks and information! You demonstrate an understanding of the key responsibilities of an entry-level security analyst and generally explain how they are useful in protecting networks and information. You are beginning to link specific tasks to broader security outcomes.
+
+The strengths I saw in your responses are:
+
+Recognizing the importance of various security tasks.
+Connecting individual actions to broader security goals.
+Some possible areas for improvement are:
+
+Clearly articulating the direct impact of specific tasks on network and information protection.
+Providing more specific examples of how these tasks mitigate threats.
+Keep up the good work! If you want to continue practicing, start a new chat.

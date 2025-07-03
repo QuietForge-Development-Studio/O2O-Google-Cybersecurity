@@ -1,0 +1,44 @@
+2.2.1.1
+Security Frameworks - Guidelines used for building plans to help mitigate risk and threats to data and privacy
+Security Controls - Safeguards designed to reduce specific risks
+encryption - process of converting data from a readable format to an encoded format
+cyphertext - raw encoded language unreadable to users or computers
+Authentication - Process of verifying who someone or something is
+MFA - Multifactor Authentication
+Biometrics - Fingerprint, Voiceprint
+Vishing - exploitation of electronix voice communication to obtatain sensitive information or impersonate a known source
+Authorization - concept of granting access to specific resources within a system
+
+2.2.2.1
+
+CIA triad - model that helps inform how organizations consider risk when setting up systems and security policies
+Confidentiality - Only authorized users can access specific assets or data
+Integrity - Data is correct, authentic, available
+Availability - Data is accessible to those who are authorized to access it 
+
+2.2.3.1
+Update: The NIST Cybersecurity Framework is a voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk. 
+
+In the latest version, CSF v2.0, a new 'Govern' function has been added, emphasizing the importance of strong cybersecurity governance. This framework is widely respected and essential for maintaining security regardless of the organization you work for.
+
+The CSF now consists of six important core functions: Govern, Identify, Protect, Detect, Respond, and Recover, which we'll discuss in detail in a future video.
+
+CSF v2.0 also places greater emphasis on supply chain risk management.
+
+Govern - 
+Update: Govern Function 
+
+A significant update in the latest version of the NIST Cybersecurity Framework is the inclusion of a new core function: Govern. This function emphasizes the importance of strong cybersecurity governance across all levels of the organization. It's about establishing and maintaining the structures and processes needed to effectively manage cybersecurity risk. This includes things like setting clear cybersecurity objectives, ensuring leadership commitment, developing and implementing a comprehensive risk management strategy, and continuously improving cybersecurity performance.
+
+Identify - management of cybersecurity risk and its effect on an organizations people and assets
+Protect - strategy used to protect an organizarion through the implementation of policies, procedures, training, and tools that help mitigate cybersecurity threats
+Detect - identify potential security incidents and improving monitoring capabilities to increase speed and efficiency of detections
+Respond - making sure the proper procedures are used to contain, neutralize, and analyze security incidents and implement improvements to the security process
+Recover - Recover - process of returning affected workstations back to normal operation
+
+2.2.4.1 OWASP principles and security audits - OWASP security principles
+Open - 
+2.2.4.3
+2.2.4.4
+2.2.4.5
+

@@ -1,0 +1,12 @@
+The NIST Cybersecurity Framework consists of three main parts:
+
+Core: This is the heart of the framework and consists of five functions:
+
+Identify: Understanding the organization's environment to manage cybersecurity risk.
+Protect: Implementing safeguards to ensure delivery of critical services.
+Detect: Developing and implementing activities to identify the occurrence of a cybersecurity event.
+Respond: Taking action regarding a detected cybersecurity incident.
+Recover: Maintaining plans for resilience and restoring any capabilities or services that were impaired due to a cybersecurity incident.
+Implementation Tiers: These tiers provide context on how an organization views cybersecurity risk and the processes in place to manage it. They range from Tier 1 (Partial) to Tier 4 (Adaptive), indicating the maturity of the organization's cybersecurity practices.
+
+Profiles: A profile represents the alignment of the Framework Core with the business requirements, risk tolerance, and resources of the organization. It helps organizations prioritize their cybersecurity activities based on their specific needs.

@@ -1,0 +1,93 @@
+2.3.1 Threats, risks, vulnerabilities
+
+Threat - Any circustance or event that can negativel impact assets
+A threat is any circumstance or event that can negatively impact assets. As an entry-level security analyst, your job is to help defend the organization’s assets from inside and outside threats. Therefore, understanding common types of threats is important to an analyst’s daily work. As a reminder, common threats include:
+
+Insider threats: Staff members or vendors abuse their authorized access to obtain data that may harm an organization.
+
+Advanced persistent threats (APTs): A threat actor maintains unauthorized access to a system for an extended period of time.
+
+Social Engineering - a manipulation technique trhat exploits human eerror to gain private information, access or valuables
+Phishing - A technique used to aquire sensitive data such as user names, passwords, or banking information
+
+Risk - Anything that can impact the confidentiality, integrity, or availability of an asset
+Low-Risk Asset - Information that would harm the organizations reputation or ongoing operations, and would not cause financial damage if compromised
+Medium-Risk Asset - Information thats not available to the public and may cause some damage to the organizations finances, reputation or ongoing operations
+High-Risk Asset - Any info protected by regulations or laws which if compromised would have a severe negative impact on an organizations finances, ongoing operations, or 
+reputation
+
+A risk is anything that can impact the confidentiality, integrity, or availability of an asset. A basic formula for determining the level of risk is that risk equals the likelihood of a threat. One way to think about this is that a risk is being late to work and threats are traffic, an accident, a flat tire, etc. 
+
+There are different factors that can affect the likelihood of a risk to an organization’s assets, including:
+
+External risk: Anything outside the organization that has the potential to harm organizational assets, such as threat actors attempting to gain access to private information
+
+Internal risk: A current or former employee, vendor, or trusted partner who poses a security risk
+
+Legacy systems: Old systems that might not be accounted for or updated, but can still impact assets, such as workstations or old mainframe systems. For example, an organization might have an old vending machine that takes credit card payments or a workstation that is still connected to the legacy accounting system.
+
+Multiparty risk: Outsourcing work to third-party vendors can give them access to intellectual property, such as trade secrets, software designs, and inventions.
+
+Software compliance/licensing: Software that is not updated or in compliance, or patches that are not installed in a timely manner
+
+
+
+Vulnerability - A weakness that can be exploited by a threat.
+
+<Both a threat and vulnerability must be present to constitute a risk.
+    Ex. include:    outdated firewall, software, or application
+                    weak passwords
+                    unprotected coonfidential data
+                    PEOPLE: actions can significantly affect organizations internal Network
+                        clients, external vendors, employee, maintaining security must be united effort>
+
+Educating and empowering people to be security-conscious
+
+2.3.2 Key impacts of threats risks, vulnerabilities
+
+Ransomware: malicious attack where threat actors encrypt an organizations data and demand payment to restore access
+    -once deployed, can freeze networks, brick devices, render software unusable, and/or steal sensitive information
+    -demands ransom in exchange for an encryption key to regain control of data
+
+3 elements of web -
+surface - normie layer, web browser
+deep web - closed network usually requires auth to access
+dark web - secrecy, often preffered by criminals
+
+3 key impacts
+financial - interrupted production services, fines, repair/maintence/restoration costs
+Identity Theft - storing any type of PII, SPII comes with additional risks
+Reputation - exploted vulnerabilites can cause users to seek other business relationships, legal fees, and possibly arrest under some circumstances
+
+
+2.3.3
+
+2.3.4
+NIST risk management framework (RMF)
+1. Prepare
+    Activities that are necessary to manage security and privacy risks before a breach occurs. This step helps to monitor for risks and identify controls to reduce those risks
+2. Categorize
+    used to develop risk management processes and tasks. Security professionals then use those processes and develop tasks by thinking about how the the confidentiality, integrity and availability of systems can be impacted by risk.
+3. Select
+    Choose, customize, and capture documentation of the controls that protect an organization.
+        ex. creating a Playbook and keeping it up to date
+4. implement - implement security and privacy plans for org.
+    essential for minimizing impact of ongoing security risks.
+        ex. Noticing several employees constantly needing password resets might benefit from a review of requirements
+5. Assess - Determine if established controls are implemented correctly.
+    Analyze protocols, procedures, and controls. Meet org needs?
+    identify potential weaknesses and determine whether tools, procedures, controls, and protocols should be changed
+6. authorize
+    Being accountable for security and privacy risks.
+    Generate reports, develop plans of action, establish project milestones
+7. monitor
+    be aware of how systems are operating. Assessing and maintainging technical operations are daily tasks
+
+Some common strategies used to manage risks include:
+Acceptance: Accepting a risk to avoid disrupting business continuity
+
+Avoidance: Creating a plan to avoid the risk altogether
+
+Transference: Transferring risk to a third party to manage
+
+Mitigation: Lessening the impact of a known risk

@@ -1,0 +1,18 @@
+0:00
+As we discussed previously, organizations use a variety of tools, such as SIEMs, playbooks, and packet sniffers to better manage, monitor, and analyze security threats. But those aren't the only tools in an analyst's toolkit. Analysts also use programming languages and operating systems to accomplish essential tasks.
+Play video starting at ::21 and follow transcript0:21
+In this video, we'll introduce you to Python and SQL programming, and the Linux operating system. All of which you'll have an opportunity to practice using later in the certificate program.
+Play video starting at ::32 and follow transcript0:32
+Organizations can use programming to create a specific set of instructions for a computer to execute tasks. Programming allows analysts to complete repetitive tasks and processes with a high degree of accuracy and efficiency. It also helps reduce the risk of human error, and can save hours or days compared to performing the work manually. Now that you're aware of what programming languages are used for, let's discuss a specific and related operating system called Linux, and two programming languages: SQL and Python.
+Play video starting at :1:5 and follow transcript1:05
+Linux is an open-source, or publicly available, operating system. Unlike other operating systems you may be familiar with, for example MacOS or Windows, Linux relies on a command line as the primary user interface. Linux itself is not a programming language, but it does allow for the use of text-based commands between the user and the operating system. You'll learn more about Linux later in the program.
+Play video starting at :1:32 and follow transcript1:32
+A common use of Linux for entry-level security analysts is examining logs to better understand what's occurring in a system. For example, you might find yourself using commands to review an error log when investigating uncommonly high network traffic.
+Play video starting at :1:49 and follow transcript1:49
+Next, let's discuss SQL. SQL stands for Structured Query Language. SQL is a programming language used to create, interact with, and request information from a database. A database is an organized collection of information or data. There may be millions of data points in a database. So an entry-level security analyst would use SQL to filter through the data points to retrieve specific information.
+Play video starting at :2:17 and follow transcript2:17
+The last programming language we'll introduce is Python. Security professionals can use Python to perform tasks that are repetitive and time-consuming and that require a high level of detail and accuracy.
+Play video starting at :2:30 and follow transcript2:30
+As a future analyst, it's important to understand that every organization's toolkit may be somewhat different based on their security needs. The main point is that you're familiar with some industry standard tools because that will show employers that you have the ability to learn how to use their tools to protect the organization and the people it serves.
+Play video starting at :2:49 and follow transcript2:49
+You're doing great! Later in the course, you'll learn more about Linux and programming languages, and you'll practice using these tools in security-related scenarios.

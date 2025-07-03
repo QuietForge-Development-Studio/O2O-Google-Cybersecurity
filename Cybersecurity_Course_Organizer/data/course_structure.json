@@ -1,0 +1,19 @@
+{
+  "courses": {
+    "1": {
+      "name": "Foundations of Cybersecurity",
+      "labs": false,
+      "portfolio": "Personal_Statement.txt"
+    },
+    "2": {
+      "name": "Manage Security Risks",
+      "labs": true,
+      "portfolio": "Security_Audit.txt"
+    },
+    "3": {
+      "name": "Networks and Network Security",
+      "labs": true,
+      "portfolio": "Network_Analysis.txt"
+    }
+  }
+}

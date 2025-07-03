@@ -1,0 +1,71 @@
+{
+  "Course_1": {
+    "Title": "Foundations of Cybersecurity",
+    "Topics": [
+      "Introduction to cybersecurity",
+      "Evolution of cybersecurity",
+      "Protect against threats, risks & vulnerabilities",
+      "Cybersecurity tools & programming languages"
+    ]
+  },
+  "Course_2": {
+    "Title": "Play It Safe: Manage Security Risks",
+    "Topics": [
+      "Security domains (CISSP domains)",
+      "Security frameworks & controls (NIST, CIA triad)",
+      "Intro to cybersecurity tools (SIEM, playbooks)",
+      "Use playbooks to respond to incidents"
+    ]
+  },
+  "Course_3": {
+    "Title": "Connect and Protect: Networks and Network Security",
+    "Topics": [
+      "Network architecture",
+      "Network operations",
+      "Secure against network intrusions",
+      "Security hardening"
+    ]
+  },
+  "Course_4": {
+    "Title": "Tools of the Trade: Linux and SQL",
+    "Topics": [
+      "Introduction to operating systems",
+      "Linux OS fundamentals",
+      "Linux commands in the Bash shell",
+      "Databases and SQL"
+    ]
+  },
+  "Course_5": {
+    "Title": "Assets, Threats, and Vulnerabilities",
+    "Topics": [
+      "Introduction to asset security",
+      "Protect organizational assets (encryption, IAM)",
+      "Threats to asset security (social engineering, malware)",
+      "Network traffic & logs using IDS/SIEM"
+    ]
+  },
+  "Course_6": {
+    "Title": "Sound the Alarm: Detection and Response",
+    "Topics": [
+      "Incident containment, eradication & recovery",
+      "Packet analysis & IDS/NIDS tools",
+      "SIEM querying & event investigation"
+    ]
+  },
+  "Course_7": {
+    "Title": "Automate Cybersecurity Tasks with Python",
+    "Topics": [
+      "Python fundamentals (data types, control flow)",
+      "Writing functions & modules",
+      "RegEx, file parsing, debugging & automation"
+    ]
+  },
+  "Course_8": {
+    "Title": "Put It to Work: Prepare for Cybersecurity Jobs",
+    "Topics": [
+      "Incident escalation & stakeholder communication",
+      "Job application prep & interview readiness",
+      "Using AI tools (Gemini, NotebookLM) to boost productivity"
+    ]
+  }
+}
